@@ -1,0 +1,5 @@
+{
+  "name": "ContentHub AI",
+  "description": "An automated content creation and scheduling platform for LinkedIn and Twitter, powered by Gemini. This application helps users generate high-quality, platform-optimized content and accompanying images.",
+  "requestFramePermissions": []
+}
